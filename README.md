@@ -1,4 +1,4 @@
-#Принципы SOLID на примере Python
+# Принципы SOLID на примере Python
 
 **srp** - Принцип единственной ответственности (*single responsibility principle*)
 
